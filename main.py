@@ -20,4 +20,4 @@ def api():
         "data": str(e)
     }
    
-app.run(port=os.getenv('PORT'))
+app.run(port=int(os.getenv('PORT')))
