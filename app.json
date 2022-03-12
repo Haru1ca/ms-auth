@@ -1,0 +1,7 @@
+{
+    "name": "microsoft-test",
+    "description": "test microsoft accounts",
+    "keywords": ["microsoft"],
+    "repository": "https://github.com/Haru1ca/ms-auth",
+    "stack": "container"
+}
